@@ -1,6 +1,6 @@
 # AI Curator App - Experiments
 
-Experimental notebooks and prototypes for the SGS Curator App project, exploring chunking strategies, retrieval methods, and contradiction detection workflows.
+Experimental notebooks and prototypes for the AI Curator App project, exploring chunking strategies, retrieval methods, and contradiction detection workflows.
 
 ## 🎯 Purpose
 
@@ -66,8 +66,8 @@ ai-curator-experiments/
 
 ```bash
 # Clone the repository
-git clone https://github.com/open-pipeline-ai/sgs-curator-experiments.git
-cd sgs-curator-experiments
+git clone https://github.com/open-pipeline-ai/ai-curator-experiments.git
+cd ai-curator-experiments
 
 # Create virtual environment
 python -m venv .venv
